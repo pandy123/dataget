@@ -1,0 +1,25 @@
+{
+  "name": "dataget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandy123/dataget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandy123/dataget/issues"
+  },
+  "homepage": "https://github.com/pandy123/dataget#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "request": "^2.87.0",
+    "sleep": "^5.1.1",
+    "stringtypebuffer": "^1.0.8"
+  }
+}
